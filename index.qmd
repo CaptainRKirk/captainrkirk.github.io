@@ -1,5 +1,5 @@
 ---
-title: "rk-blog"
+title: "captainrkirk.github.io"
 listing:
   contents: posts
   sort: "date desc"

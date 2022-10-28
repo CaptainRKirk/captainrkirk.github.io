@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "rk-blog"
+  title: "captainrkirk.github.io"
   navbar:
     right:
       - about.qmd
